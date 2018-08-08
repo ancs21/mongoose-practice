@@ -8,8 +8,8 @@ MongoDB Practice with Mongoose ORM
  - Một môn học có thể được học bởi nhiều học sinh
  - Một học sinh có thể học nhiều môn học
  
- Môn học (Course) gồm 2 fields là mã môn học (code), và tên môn học (name)
- Học sinh (Student) gôm 3 fields là họ (firstName), tên (lastName) và tuổi (age), đồng thời có 1 field (courses) tham chiếu đến danh sách các môn học
+ - Môn học (Course) gồm 2 fields là mã môn học (code), và tên môn học (name)
+ - Học sinh (Student) gôm 3 fields là họ (firstName), tên (lastName) và tuổi (age), đồng thời có 1 field (courses) tham chiếu đến danh sách các môn học
  
  REST API gồm các tính năng sau:
   - Trả về tất cả môn học (/api/courses)
