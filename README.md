@@ -1,8 +1,8 @@
 # Mongoose-practice
 MongoDB Practice with Mongoose ORM
 
-- Mô hình quan hệ
- + Many to many
+### Mô hình quan hệ
+#### Many to many
  
  Thiết kế lược đồ cho mô hình sau:
  - Một môn học có thể được học bởi nhiều học sinh
